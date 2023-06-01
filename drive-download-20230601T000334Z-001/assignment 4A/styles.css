@@ -1,0 +1,28 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  p{
+    text-align: center;
+    
+  }
+
+  img{
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    height : 450px;
+    width : 400px;
+  }
+
+  table{
+    text-align: center;
+  }
+
+    
+  
+
+  
